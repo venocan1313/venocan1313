@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "acblackflagresynced",
+  "name": "Assassin's Creed Black Flag Resynced",
+  "type": "Macera",
+  "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai, Ubisoft Montreal, Ubisoft Romania",
+  "publisher": "Ubisoft",
+  "tryama": true,
+  "shortDescription": "Edward Kenway'in efsanevi korsan macerası modern nesil grafikler, yenilenmiş deniz savaşları ve baştan kurgulanan açık dünya detaylarıyla geri dönüyor...",
+  "description": "Edward Kenway'in efsanevi korsan macerası modern nesil grafikler, yenilenmiş deniz savaşları ve baştan kurgulanan açık dünya detaylarıyla geri dönüyor. Karayipler'in altın çağında özgürlük, ihanet ve Suikastçılar Tarikatı arasındaki destansı mücadeleye katıl.",
+  "version": "1.0",
+  "size": 41979922984,
+  "releaseDate": "Jul 9, 2026",
+  "popularityScore": 95,
+  "featured": false,
+  "assets": {
+    "logo": "logo.png",
+    "logoWidth": 279,
+    "logoHeight": 132,
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule_2x.jpg?t=1795534981",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/09d7b766ce8a26bce32887ec7eaf00fc36552025/library_hero_2x.jpg?t=1795534981"
+  },
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/5de8c44752bdbc724b905b76bc5023bbff57547f/ss_5de8c44752bdbc724b905b76bc5023bbff57547f.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/f084448247301f9b445e92ceb202eaa591cf65d1/ss_f084448247301f9b445e92ceb202eaa591cf65d1.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/a79f6dada7c7ca555c1be440793ee46813acf9ca/ss_a79f6dada7c7ca555c1be440793ee46813acf9ca.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/2fc01441720a7f301b3f0abced79b7d9159cb105/ss_2fc01441720a7f301b3f0abced79b7d9159cb105.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/726ad706a4f31a5325d44bb586010802a9d2a799/ss_726ad706a4f31a5325d44bb586010802a9d2a799.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9553ccbfadad58974d31817949373ce1ac0d8fbf/ss_9553ccbfadad58974d31817949373ce1ac0d8fbf.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/fdb76ad33ab570b0768f0d3c0ce4f879ceb467d5/ss_fdb76ad33ab570b0768f0d3c0ce4f879ceb467d5.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/3a0de67fdb133b4b21c53cc23a813b766f0c612c/ss_3a0de67fdb133b4b21c53cc23a813b766f0c612c.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/36e3aa0f93c31cae968381adfc6b5d4cd1754910/ss_36e3aa0f93c31cae968381adfc6b5d4cd1754910.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/7c8c184c52836726a8c6a9bafd515e36ac46cc09/ss_7c8c184c52836726a8c6a9bafd515e36ac46cc09.1920x1080.jpg"
+  ],
+  "download": {
+    "sourceType": "torrent",
+    "url": "https://raw.githubusercontent.com/venocan1313/venocan1313/main/Assassin%27s%20Creed%20Black%20Flag%20Resynced%20WRAITH.torrent",
+    "sha256": "",
+    "fileName": "acblackflagresynced",
+    "authorized": true,
+    "licenseNote": "İndirme kaynağı GitHub deposundan doğrulandı (.torrent)."
+  },
+  "systemRequirements": {
+    "os": "OS",
+    "processor": "and operating system",
+    "graphics": "NVIDIA GeForce GTX 1660 (6GB), AMD Radeon RX5500XT (8GB) or Intel ARC A580 (8GB)",
+    "minimumRam": "16 GB RAM",
+    "recommendedRam": "16 GB RAM",
+    "minimumStorage": "39 GB Kullanılabilir Alan"
+  }
+}
