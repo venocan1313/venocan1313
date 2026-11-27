@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "halocampaigned",
+  "name": "Halo: Campaign Evolved",
+  "type": "Nişancı",
+  "developer": "Halo Studios",
+  "publisher": "Xbox Game Studios",
+  "tryama": true,
+  "shortDescription": "Efsanevi Halo: Combat Evolved hikâyesi Unreal Engine 5 gücüyle sıfırdan yeniden inşa ediliyor. Yenilenmiş sinematik sahneler, fotogerçekçi aydınlatma ve...",
+  "description": "Efsanevi Halo: Combat Evolved hikâyesi Unreal Engine 5 gücüyle sıfırdan yeniden inşa ediliyor. Yenilenmiş sinematik sahneler, fotogerçekçi aydınlatma ve Master Chief ile Çavuş Johnson'ın yer aldığı yeni görevlerle Halo halkasındaki destansı mücadeleyi deneyimle.",
+  "version": "1.0",
+  "size": 107374182400,
+  "releaseDate": "Jul 28, 2026",
+  "popularityScore": 95,
+  "featured": false,
+  "assets": {
+    "logo": "logo.png",
+    "logoWidth": 440,
+    "logoHeight": 88,
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/712eb45cff910f317c1a7e8fc5f487f26f83c195/library_capsule_2x.jpg?t=1786379031",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/ceb0f41e69ed296fccd359255b7981f1fc48538c/library_hero_2x.jpg?t=1786379031"
+  },
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/4288a35884445fcf22f4fe7315944c376ecb1cf5/ss_4288a35884445fcf22f4fe7315944c376ecb1cf5.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/e3a3facf1d3f02fc13ef6e95a40cf1fad52a9087/ss_e3a3facf1d3f02fc13ef6e95a40cf1fad52a9087.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/8a7b831ea8a306b1f13321f027c1410ac378941b/ss_8a7b831ea8a306b1f13321f027c1410ac378941b.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/a05dce36b81730fcd2a4ddd4a1106cfcc74dbf0b/ss_a05dce36b81730fcd2a4ddd4a1106cfcc74dbf0b.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/46706c1f09a3f69dcae90acb6914fe64a91b5d6f/ss_46706c1f09a3f69dcae90acb6914fe64a91b5d6f.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/6773ca4386fb78b10c987902bf2f66a1038d7829/ss_6773ca4386fb78b10c987902bf2f66a1038d7829.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/37857172e4a235fd8032d8d0ad1d5d511973368e/ss_37857172e4a235fd8032d8d0ad1d5d511973368e.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/3696511ddbe8cc4d80706d435f6dbe77620ef64d/ss_3696511ddbe8cc4d80706d435f6dbe77620ef64d.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/2fe62cfaa7a8adb888e7ebade63d0b90f02d21d7/ss_2fe62cfaa7a8adb888e7ebade63d0b90f02d21d7.1920x1080.jpg",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/9470157e11a7b26c49236ed692cf822cb06fc1b4/ss_9470157e11a7b26c49236ed692cf822cb06fc1b4.1920x1080.jpg"
+  ],
+  "download": {
+    "sourceType": "torrent",
+    "url": "",
+    "sha256": "",
+    "fileName": "halocampaigned",
+    "authorized": true,
+    "licenseNote": "İndirme kaynağı kullanıcı tarafından eklenecektir."
+  },
+  "systemRequirements": {
+    "os": "Windows 11 64-Bit",
+    "processor": "AMD Ryzen 5 3600 veya Intel Core i7-10700K",
+    "graphics": "AMD Radeon RX 6600, Intel Arc A580 veya NVIDIA GeForce RTX 2060 Super",
+    "minimumRam": "16 GB RAM",
+    "recommendedRam": "32 GB RAM",
+    "minimumStorage": "100 GB Kullanılabilir Alan"
+  }
+}
